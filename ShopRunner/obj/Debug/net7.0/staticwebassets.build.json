@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "o+q4+aqGmuOlBE5lP+TI7w03zqgsQ0vLXr4JiEv4P/8=",
+  "Source": "ShopRunner",
+  "BasePath": "_content/ShopRunner",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ShopRunner\\wwwroot",
+      "Source": "ShopRunner",
+      "ContentRoot": "E:\\MVC C#\\ShopRunner\\ShopRunner\\wwwroot\\",
+      "BasePath": "_content/ShopRunner",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\MVC C#\\ShopRunner\\ShopRunner\\wwwroot\\images\\1.jpg",
+      "SourceId": "ShopRunner",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\MVC C#\\ShopRunner\\ShopRunner\\wwwroot\\",
+      "BasePath": "_content/ShopRunner",
+      "RelativePath": "images/1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\1.jpg"
+    },
+    {
+      "Identity": "E:\\MVC C#\\ShopRunner\\ShopRunner\\wwwroot\\images\\2.jpg",
+      "SourceId": "ShopRunner",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\MVC C#\\ShopRunner\\ShopRunner\\wwwroot\\",
+      "BasePath": "_content/ShopRunner",
+      "RelativePath": "images/2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\2.jpg"
+    },
+    {
+      "Identity": "E:\\MVC C#\\ShopRunner\\ShopRunner\\wwwroot\\images\\3.jpg",
+      "SourceId": "ShopRunner",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\MVC C#\\ShopRunner\\ShopRunner\\wwwroot\\",
+      "BasePath": "_content/ShopRunner",
+      "RelativePath": "images/3.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\3.jpg"
+    },
+    {
+      "Identity": "E:\\MVC C#\\ShopRunner\\ShopRunner\\wwwroot\\images\\4.jpg",
+      "SourceId": "ShopRunner",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\MVC C#\\ShopRunner\\ShopRunner\\wwwroot\\",
+      "BasePath": "_content/ShopRunner",
+      "RelativePath": "images/4.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\4.jpg"
+    }
+  ]
+}
